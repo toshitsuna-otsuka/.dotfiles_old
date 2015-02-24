@@ -8,3 +8,6 @@ my dotfiles.
 -.vimrc  
 -.tmux.conf
 
+
+test
+
